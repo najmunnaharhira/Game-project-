@@ -1,4 +1,4 @@
-[2/26, 12:56 AM] Najmun Nahar Hira: #include < iostream >
+ #include < iostream >
 
 #include < conio.h >
 
@@ -116,7 +116,7 @@ case 'd':
 dir = RIGHT;
 
 break;
-[2/26, 12:58 AM] Najmun Nahar Hira: case 'w':
+ case 'w':
 
 dir = UP;
 
